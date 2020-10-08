@@ -2,7 +2,7 @@
 
 ## Privacy Policy
 
-Last updated: February 28, 2017
+Last updated: October 10, 2020
 
 Your privacy is very important. This privacy policy informs you about what data is collected and how it is used when you run [Sketchboard](https://play.google.com/store/apps/details?id=com.billthelizard.sketchboard&hl=en) on your device. 
 
